@@ -4,6 +4,14 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## Setup
 
+Create a new .env file
+
+```bash
+    PAYPAL_CLIENT_ID="PAYPAL_CLIENT_ID_VALUE"
+    PAYPAL_CLIENT_SECRET="PAYPAL_CLIENT_SECRET_VALUE"
+    PAYPAL_ENVIRONMENT=sandbox
+```
+
 Make sure to install dependencies:
 
 ```bash
