@@ -1,6 +1,6 @@
-# Nuxt Minimal Starter
+# About
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a minimal starter application for using @paypal/paypal-server-sdk, feel free to modify the code here how you want and integrate into your project.
 
 ## Setup
 

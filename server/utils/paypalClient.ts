@@ -3,7 +3,8 @@ import { Client, Environment, LogLevel } from '@paypal/paypal-server-sdk';
 
 let paypalClientInstance: Client | null = null;
 
-export function getPaypalClient(): Client {
+export function getPaypalClient(): Client { 
+  
   if (paypalClientInstance) {
     return paypalClientInstance;
   }
